@@ -1,5 +1,6 @@
 # legaldocs
-A collection of routine legal forms I have released from my Georgia legal practice in plain text format.
+A collection of routine legal forms I have released from my Georgia legal practice.
+The forms are provided in plain text format so they may be used by any word processing software.
 
 These documents are provided for free "as-is" with no warranty of any kind, express or implied.
 Reliance upon any of these documents does not form an attorney-client relationship.
