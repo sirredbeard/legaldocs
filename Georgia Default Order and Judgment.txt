@@ -1,15 +1,15 @@
-________________COURT OF ________________ COUNTY
+[COURT] COURT OF [COUNTY] COUNTY
 STATE OF GEORGIA
 
-					    *		CIVIL ACTION
-							*
-Plaintiff,		*		CASE NO. __________________
-							*
-v.						*		
-							*
-				      *
-							*
-Defendant.		*
+[PLAINTIFF, INC.]					*		CIVIL ACTION
+						        *
+Plaintiff,				    		*		CASE NO. __________________
+						        *
+v.					          	*		
+						        *
+[DEFENDANT, INC.]				 	*
+						        *
+Defendant.					    	*
 
 ORDER AND JUDGMENT
 
