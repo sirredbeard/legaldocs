@@ -6,3 +6,5 @@ These documents are provided for free "as-is" with no warranty of any kind, expr
 Reliance upon any of these documents does not form an attorney-client relationship.
 
 Pursuant to the Georgia Rules of Professional Conduct Rule 4.3 unrepresented persons are advised to consult competent legal counsel in their respective jurisdictions.
+
+No claim to original government works.
