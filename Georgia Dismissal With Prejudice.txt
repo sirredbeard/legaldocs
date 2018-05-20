@@ -15,7 +15,7 @@ DISMISSAL WITH PREJUDICE
 
 COMES NOW the Plaintiff in the above-titled action and hereby dismisses, with prejudice, it’s claim against Defendant.
 
-This ______ day of ___________, 20 ____.
+This [DAY] day of [MONTH], 20 [YEAR].
 
     
             	________________________________
@@ -25,13 +25,13 @@ This ______ day of ___________, 20 ____.
 
 CERTIFICATE OF SERVICE
 
-I hereby certify that I have this date served a copy of Substitution of Counsel along with a copy of this Certificate, 
+I hereby certify that I have this date served a copy of the foregoing Dismissal With Prejudice along with a copy of this Certificate, 
 upon all counsel of record in this matter by placing a copy of same in the United States Mail with sufficient postage 
 affixed thereon to insure delivery as follows: 
 
 [NAME AND ADDRESS OF OPPOSING PARTY/COUNSEL]
 
-Certified this [DAY] day of [MONTH], 2017.
+Certified this [DAY] day of [MONTH], [YEAR].
 
 
 		________________________________
