@@ -1,44 +1,36 @@
-																		IN THE [COURT] COURT OF [COUNTY] COUNTY
-																									STATE OF GEORGIA
+[COURT] COURT OF [COUNTY] COUNTY
+STATE OF GEORGIA
+
+[PLAINTIFF]						*		CIVIL ACTION
+						        *
+Plaintiff,				    		*		CASE NO. __________________
+						        *
+v.					          	*		
+						        *
+[DEFENDANT]				 		*
+						        *
+Defendant.					    	*
+																							SUGGESTION OF DEATH
           
-PLAINTIFF
+Notice is hereby given pursuant to O.C.G.A. § 9-11-25 that [PLAINTIFF], [PARTY] in the above-styled action, passed away on [DATED].
 
-  Plaintiff,
-  
-  v.
-  
-DEFENDANT
-
-  Defendant.
-  
-																									SUGGESTION OF DEATH
-          
-	Notice is hereby given pursuant to O.C.G.A. § 9-11-25 that [PLAINTIFF], [PARTY] in the above-styled action, died on [DATED].
-
-	Respectfully submitted this [DAY] day of [MONTH], [YEAR].
+Respectfully submitted this [DAY] day of [MONTH], [YEAR].
 	
-																																																	_______________________
+            	________________________________
+		Counsel
+		Georgia Bar No. 
+             	[ADDRESS]
 
-																																																	Counsel
+																							CERTIFICATE OF SERVICE
 
-																																																	Georgia Bar No. 
-
-             																																											[ADDRESS]
-
-																									CERTIFICATE OF SERVICE
-
-	I hereby certify that I have this date served a copy of the foregoing Suggestion of Death along with a copy of this Certificate, upon all counsel of record in this matter by placing a copy of same in the United States Mail with sufficient postage affixed thereon to insure delivery as follows: 
-
+I hereby certify that I have this date served a copy of the foregoing Suggestion of Death along with a copy of this Certificate, upon all counsel of record in this matter by placing a copy of same in the United States Mail with sufficient postage affixed thereon to insure delivery as follows: 
 																						[NAME AND ADDRESS OF OPPOSING PARTY/COUNSEL]
-
 
 	Certified this [DAY] day of [MONTH], [YEAR].
 
-
-																																																	_______________________
-
-																																																	Counsel
-
-																																																	Georgia Bar No. 
+		________________________________
+		Counsel
+		Georgia Bar No. 
+             	[ADDRESS]
 
              																																											[ADDRESS]
