@@ -1,4 +1,4 @@
-MAGISTRATE COURT OF COBB COUNTY
+[COURT] COURT OF [COUNTY] COUNTY
 STATE OF GEORGIA
 
 [PLAINTIFF]			*		CIVIL ACTION
@@ -37,6 +37,6 @@ SO ORDERED, this _______ day of ______, ______.
 Consented to by:
 
 _________________________________			_________________________________	
-Plaintiff                             Defendant
+Plaintiff                             			Defendant
 
 						
